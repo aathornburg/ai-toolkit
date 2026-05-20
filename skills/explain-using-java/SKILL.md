@@ -1,3 +1,8 @@
+---
+name: explain-using-java
+description: Explain code using Java concepts and terminology
+---
+
 Name: explain-using-java
 
 Purpose

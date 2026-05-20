@@ -1,3 +1,8 @@
+---
+name: explain-using-python
+description: Explain code using Python concepts and terminology
+---
+
 Name: explain-using-python
 
 Purpose

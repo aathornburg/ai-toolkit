@@ -1,3 +1,8 @@
+---
+name: explain-using-react
+description: Explain code using React concepts and terminology
+---
+
 Name: explain-using-react
 
 Purpose

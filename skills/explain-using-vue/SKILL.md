@@ -1,3 +1,8 @@
+---
+name: explain-using-vue
+description: Explain code using Vue concepts and terminology
+---
+
 Name: explain-using-vue
 
 Purpose

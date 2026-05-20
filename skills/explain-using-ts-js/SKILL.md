@@ -1,3 +1,8 @@
+---
+name: explain-using-ts-js
+description: Explain TypeScript and JavaScript idioms and concepts
+---
+
 Name: explain-using-ts-js
 
 Purpose

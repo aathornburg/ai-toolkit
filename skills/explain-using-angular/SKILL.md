@@ -1,3 +1,8 @@
+---
+name: explain-using-angular
+description: Explain code using Angular concepts and terminology
+---
+
 Name: explain-using-angular
 
 Purpose
