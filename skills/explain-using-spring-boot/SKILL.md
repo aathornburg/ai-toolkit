@@ -1,21 +1,23 @@
 ---
 name: explain-using-spring-boot
-summary: Explain Node/Express backend code using Java Spring Boot architecture analogies.
-labels:
-  - spring
-  - boot
-  - java
-  - backend
-  - express
-  - node
+description: Explain Node/Express backend code using Java Spring Boot analogies
 ---
 
-Use this skill to annotate TypeScript/JavaScript backend code with Spring Boot concepts.
+Name: explain-using-spring-boot
 
-Focus on:
-- Express application setup vs Spring Boot `@SpringBootApplication` and `SpringApplication.run()`
-- Router/controller mapping vs `@RestController` and `@RequestMapping`
-- Service interfaces and implementations vs Spring `@Service`
-- Dependency injection patterns vs Spring DI and bean wiring
-- Validation libraries like Zod vs Spring `@Valid` and DTO validation
-- Database config and Prisma client creation vs Spring Data/JPA configuration
+Purpose
+-------
+Provide Spring Boot-style explanations for TypeScript/JavaScript backend code by mapping Express and Node patterns to Spring Boot concepts.
+
+When to use
+-----------
+- The code contains backend routing, dependency injection, validation, or database access.
+- The user wants Java/Spring Boot analogies for Node/Express architecture.
+
+Behavior
+--------
+- Map Express app startup to `@SpringBootApplication` and `SpringApplication.run()`.
+- Explain router/controller mapping as `@RestController`, `@RequestMapping`, and method-level request mappings.
+- Relate service modules to Spring `@Service` beans and dependency injection wiring.
+- Compare validation with Spring `@Valid` and DTO validation.
+- Align database client/config patterns to Spring Data/JPA configuration.
