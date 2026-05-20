@@ -5,7 +5,7 @@ summary: |
   Analyze a file or codebase and add inline comments that explain concepts
   by comparing them to a different framework or language (for example,
   explain a React component using Angular concepts).
-scope: repo
+scope: user
 ---
 
 Description
@@ -33,7 +33,8 @@ Capabilities & tools
 --------------------
 - Will use analysis skills such as `explain-using-angular`,
   `explain-using-vue`, `explain-using-react`, `explain-using-ts-js`,
-  `explain-using-java`, `explain-using-python`, and `explain-infra-build-tools`.
+  `explain-using-java`, `explain-using-spring-boot`, `explain-using-python`,
+  and `explain-infra-build-tools`.
 - Uses code read/write helpers to propose or apply inline comments.
 
 Safety & limits
@@ -46,7 +47,7 @@ Safety & limits
 Example prompts
 ---------------
 - "Explain the React files in this repo using Angular concepts — show
-  inline comments mapping `useEffect` to `ngOnInit` equivalents." 
+  inline comments mapping `useEffect` to `ngOnInit` equivalents."
 - "Annotate web/src/state/HouseholdSetupProvider.tsx with Java analogies
   for dependency injection and service patterns."
 
